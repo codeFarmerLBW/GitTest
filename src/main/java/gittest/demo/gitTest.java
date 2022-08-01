@@ -8,5 +8,6 @@ public class gitTest {
         System.out.println("hello git!! hello ekkoA A A A A  " );
         System.out.println("hello git!! hello ekkoA A A A A  " );
         System.out.println("push" );
+        System.out.println("pull" );
     }
 }
